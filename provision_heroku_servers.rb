@@ -1,5 +1,3 @@
-require './1407/06_the_pivot/submissions'
-
 class Provisioner
   def setup
     Dir.mkdir(temp_dir)
