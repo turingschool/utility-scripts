@@ -14,6 +14,9 @@ heroku or Digital Ocean in an automated way.
   to them
 * `generate_outline.rb` - Creates outline for student project evaluation
 
+### Looking for the Calendar Shifting Script?
+
+It lives in its own repo [here](https://github.com/turingschool/calendar-shift)
 
 #### Digital Ocean Provisioner
 
